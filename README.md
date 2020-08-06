@@ -9,3 +9,5 @@
 * typescript
 
 * vue-class-component 8.0.0
+
+* tsx
